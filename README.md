@@ -20,7 +20,7 @@
 
 - Configure test email address.
     - Change the value of emailField.sendKeys in \src\main\java\variables\FormalooAutomationbyAnas\AppTest.java` 
-    - Note: with same email address you can not create account.
+    - Note: with same email address you can not create another account so either login with your own account or login with the same id password of this testing account.
 
 	
 Project is ready to run. Execute following commands and enjoy the automatic web-driver test.
